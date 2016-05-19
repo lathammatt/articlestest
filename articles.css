@@ -1,0 +1,54 @@
+.one {
+	background-color: #5B88FF;
+	font-family: Helvetica;
+	font-size: 12px;
+	color: #E8D81E;
+	line-height: 110%;
+	padding: 20px;
+	border-radius: 50px 20px;
+	border: 1px solid black;
+}
+
+.two {
+	background-color: #4DFFE6;
+	font-family: Georgia;
+	font-size: 10px;
+	color: #E8541E;
+	line-height: 150%;
+	padding: 10px;
+	border-radius: 10px;
+	border: 1px solid black;
+}
+
+.three {
+	background-color: #47B8E8;
+	font-family: Arial;
+	font-size: 14px;
+	color: #FF2188;
+	line-height: 90%;
+	padding: 15px;
+	border-radius: 25px 70px 80px 15px;
+	border: 1px solid black;
+}
+
+.four {
+	background-color: #B94EFF;
+	font-family: Impact;
+	font-size: 17px;
+	color: #70FF2E;
+	line-height: 140%;
+	padding: 0;
+	border-radius: 180px;
+	border: 1px solid black;
+}
+
+.five {
+	background-color: #6147E8;
+	font-family: Times;
+	font-size: 20px;
+	color: #E8D226;
+	line-height: 100%;
+	padding: 5px;
+	border-radius: 20px 50px;
+	border: 1px solid black;
+}
